@@ -1,25 +1,12 @@
 # README
+Learned how to:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Generate an API application using Rails 5
+- Set up RSpec testing framework with Factory Bot, Database Cleaner, Shoulda Matchers and Faker.
+- Build models and controllers with TDD (Test Driven Development).
 
-Things you may want to cover:
+TODO: =)
 
-* Ruby version
+- Make HTTP requests to an API with httpie.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # Rails-api
